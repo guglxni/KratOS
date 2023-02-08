@@ -2,11 +2,7 @@
 /* Created by Aaryan Guglani */
 [ UDEMY course link : https://www.udemy.com/course/developing-a-multithreaded-kernel-from-scratch/ ]
 
-# PeachOS
-
 A bootloader and kernel (written in C and assembly) designed for the intel x86 family of processors
-
-I am maintaining this repository as I follow Daniel McCarthy's Udemy Course - "Developing a Multithreaded Kernel From Scratch!"
 
 ## Instructions for running on the qemu simulator
 
